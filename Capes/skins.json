@@ -31,6 +31,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Spanien",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape6.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Dummy",
       "geometry": "geometry.humanoid.custom",
       "texture": "dummy.png",
