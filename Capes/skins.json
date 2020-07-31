@@ -1,0 +1,36 @@
+{
+  "skins": [
+    {
+      "localization_name": "StimoMC",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deutschland",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "USA",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "England",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dummy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dummy.png",
+      "type": "custom"
+    }
+  ],
+  "serialize_name": "Standard",
+  "localization_name": "Standard"
+}
