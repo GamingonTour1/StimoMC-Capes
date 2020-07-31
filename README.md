@@ -1,6 +1,6 @@
 # StimoMC Capes
 ---
-|                 | Designer|
+|                 | Designes|
 |:---------------:|:-------:|
 | GamingonTour1   |    X    |
 | ShadowItsMaster |    X    |
