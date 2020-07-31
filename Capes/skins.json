@@ -37,6 +37,12 @@
       "type": "free"
     },
     {
+      "localization_name": "Weed",
+      "geometry": "geometry.HDcape1",
+      "texture": "HDcape7.png",
+      "type": "free"
+    },
+    {
       "localization_name": "Dummy",
       "geometry": "geometry.humanoid.custom",
       "texture": "dummy.png",
