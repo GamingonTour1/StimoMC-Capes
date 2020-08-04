@@ -1,6 +1,6 @@
 # StimoMC Capes
 ---
-|                 | Designes|Clanmitglied|
+|                 | Designes|Clanmember|
 |:---------------:|:-------:|:-------:|
 | GamingonTour1   |    X    |    X    |
 | ShadowItsMaster |    X    |    X    |
